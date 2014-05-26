@@ -1,4 +1,6 @@
 MRLoadingView
 =============
 
-It's a LoaidngView
+###Example
+
+![image](loading.gif)
